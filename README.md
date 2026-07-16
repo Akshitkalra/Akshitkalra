@@ -39,9 +39,11 @@
 
 ## 📫 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshitkalra)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/akshitkalra)
 
 ---
 
-![Akshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshitkalra&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshitkalra&layout=compact&theme=dark&hide_border=true)
+![Akshit's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akshitkalra&theme=github_dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akshitkalra&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Akshitkalra&theme=dark&hide_border=true)
