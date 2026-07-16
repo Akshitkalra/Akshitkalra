@@ -44,6 +44,4 @@
 ---
 
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akshitkalra&theme=github_dark)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Akshitkalra&theme=dark&hide_border=true)
